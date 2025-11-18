@@ -28,7 +28,15 @@ cd Simple-ChatBot-With-Ollama
   pip install Flask langchain langchain-community langchain-core
   ```
 
-**4. Run the Application**
+## Run the Application
 ```
 python app.py
 ```
+The application will start, you can press one of the link the pops up on the terminal
+
+example: http://127.0.0.1:5000
+
+## Testing
+Go to text input, write a prompt, and click 'Send' button.
+
+Wait, and you will see the response inside the chat box
