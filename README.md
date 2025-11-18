@@ -13,8 +13,8 @@ ollama pull gemma3:1b
 
 **2. Clone Repository**
 ```
-git clone
-cd 
+git clone https://github.com/Richardo05/Simple-ChatBot-With-Ollama.git
+cd Simple-ChatBot-With-Ollama
 ```
 
 **3. Install Python Dependencies**
