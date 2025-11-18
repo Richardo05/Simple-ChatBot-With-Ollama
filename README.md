@@ -25,7 +25,7 @@ cd Simple-ChatBot-With-Ollama
   ```
 - Install Python Dependencies
   ```
-  pip install
+  pip install Flask langchain langchain-community langchain-core
   ```
 
 **4. Run the Application**
