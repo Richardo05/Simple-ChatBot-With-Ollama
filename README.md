@@ -18,6 +18,7 @@ cd Simple-ChatBot-With-Ollama
 ```
 
 **3. Install Python Dependencies**
+(Use command prompt inside terminal)
 - Create New Virtual Environtment
   ```
   python -m venv venv
